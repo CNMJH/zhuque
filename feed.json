@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "朱雀动画",
+    "description": "",
+    "home_page_url": "https://zhuque.icu",
+    "feed_url": "https://zhuque.icu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "zhuquedonghua"
+    },
+    "items": [
+    ]
+}
