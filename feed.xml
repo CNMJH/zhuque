@@ -3,10 +3,31 @@
     <title>朱雀动画</title>
     <link href="http://www.zhuque.icu/feed.xml" rel="self" />
     <link href="http://www.zhuque.icu" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2023-04-15T13:22:14+08:00</updated>
     <author>
         <name>zhuquedonghua</name>
     </author>
     <id>http://www.zhuque.icu</id>
 
+    <entry>
+        <title>这是一个测试哦</title>
+        <author>
+            <name>zhuquedonghua</name>
+        </author>
+        <link href="http://www.zhuque.icu/zhe-shi-yi-ge-ce-shi-e.html"/>
+        <id>http://www.zhuque.icu/zhe-shi-yi-ge-ce-shi-e.html</id>
+
+        <updated>2023-04-15T13:22:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试内容主题
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试内容主题</p>
+<figure class="post__image"><img loading="lazy"  src="http://www.zhuque.icu/media/posts/1/001.png" alt="" width="1920" height="1080" sizes="100vw" srcset="http://www.zhuque.icu/media/posts/1/responsive/001-xs.png 300w ,http://www.zhuque.icu/media/posts/1/responsive/001-sm.png 480w ,http://www.zhuque.icu/media/posts/1/responsive/001-md.png 768w ,http://www.zhuque.icu/media/posts/1/responsive/001-lg.png 1024w ,http://www.zhuque.icu/media/posts/1/responsive/001-xl.png 1360w ,http://www.zhuque.icu/media/posts/1/responsive/001-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
