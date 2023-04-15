@@ -6,38 +6,21 @@
     "feed_url": "http://www.zhuque.icu/feed.json",
     "user_comment": "",
     "author": {
-        "name": "zhuquedonghua"
+        "name": "朱雀"
     },
     "items": [
         {
             "id": "http://www.zhuque.icu/lesslessling-ji-chu-ru-men-you-xi-dong-zuo-shigreatergreater-ke-biao.html",
             "url": "http://www.zhuque.icu/lesslessling-ji-chu-ru-men-you-xi-dong-zuo-shigreatergreater-ke-biao.html",
-            "title": "《零基础入门游戏动作师》课表",
-            "summary": "一、 运动规律（1个月） 1.挤压与拉伸 2.预备与缓冲 3.跟随与重叠 4.缓入缓出与次要动作 5.节奏基础 6.夸张与吸引力 7.弧线运动与避免对称 二、 pose训练（1个月） 1.pose的基本原则（如何摆pose） 2.pose男女性特点 3.pose脊柱曲线 4.关键帧基本原则（如何提取关键帧） 5.关键帧的概念强化与判断训练（拉片训练） 三、 动作实战（3个月） 1.向前攻击 1.1直拳/直刺 关键帧pose分析 1.2直拳/直刺 动作框架制作 1.3直拳/直刺 动作完整细化 1.4直拳/直刺 缓冲推演与细化方向分析 待机、跑步、普攻、暴击、大招 时长10秒内，突出角色特点 突出角色特点 时长15秒内",
+            "title": "课表",
             "content_html": "<h2><figure class=\"post__image\"><img decoding=\"auto\" loading=\"lazy\"  src=\"http://www.zhuque.icu/media/posts/2/Xiang-Qing-1-Biao-Ti-2.jpg\" alt=\"\" width=\"1080\" height=\"705\" sizes=\"100vw\" srcset=\"http://www.zhuque.icu/media/posts/2/responsive/Xiang-Qing-1-Biao-Ti-2-xs.jpg 300w ,http://www.zhuque.icu/media/posts/2/responsive/Xiang-Qing-1-Biao-Ti-2-sm.jpg 480w ,http://www.zhuque.icu/media/posts/2/responsive/Xiang-Qing-1-Biao-Ti-2-md.jpg 768w ,http://www.zhuque.icu/media/posts/2/responsive/Xiang-Qing-1-Biao-Ti-2-lg.jpg 1024w ,http://www.zhuque.icu/media/posts/2/responsive/Xiang-Qing-1-Biao-Ti-2-xl.jpg 1360w ,http://www.zhuque.icu/media/posts/2/responsive/Xiang-Qing-1-Biao-Ti-2-2xl.jpg 1600w\"></figure></h2>\n<h2><span style=\"color: #e67e23;\">一、 <strong>运动规律</strong><strong>（1个月）</strong></span></h2>\n<h4><strong><span data-font-family=\"default\">1.</span></strong><strong><span data-font-family=\"default\">挤压与拉伸</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">2.预备与缓冲</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">3.跟随与重叠</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">4.缓入缓出与次要动作</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">5.节奏基础</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">6.夸张与吸引力</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">7.弧线运动与避免对称</span></strong></h4>\n<h2><span style=\"color: #e67e23;\">二、 <strong>pose训练</strong><strong>（1个月）</strong></span></h2>\n<h4><strong><span data-font-family=\"default\">1.pose的基本原则（如何摆pose）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">2.pose男女性特点</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">3.pose脊柱曲线</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">4.关键帧基本原则（如何提取关键帧）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">5.关键帧的概念强化与判断训练（拉片训练）</span></strong></h4>\n<h2><span style=\"color: #e67e23;\">三、</span> <strong><span data-font-family=\"default\">动作实战</span></strong><strong><span data-font-family=\"default\">（3个月）</span></strong></h2>\n<h4><strong><span data-font-family=\"default\">1.向前攻击</span></strong></h4>\n<p><span data-font-family=\"default\">1.1直拳/直刺 关键帧pose分析</span></p>\n<p><span data-font-family=\"default\">1.2直拳/直刺 动作框架制作</span></p>\n<p><span data-font-family=\"default\">1.3直拳/直刺 动作完整细化</span></p>\n<p><span data-font-family=\"default\">1.4直拳/直刺 缓冲推演与细化方向分析</span></p>\n<h4><strong><span data-font-family=\"default\">2.横向攻击</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">3.向上攻击</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">4.向下攻击</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">5.三连击制作思路（主要讲思路，可以不用演示）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">6.休闲动作（5秒内）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">7.入场动画（4秒内）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">待机动画（录播）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">走路动画（录播）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">跑步动画（录播）</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">死亡动画（录播）</span></strong></h4>\n<h2><span style=\"color: #e67e23;\">四、 </span><strong><span data-font-family=\"default\">经验分享</span></strong><strong><span data-font-family=\"default\">（1个月）</span></strong></h2>\n<h4><strong><span data-font-family=\"default\">作品与简历</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">科普：外包、研发、外派、</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">校招经验分享</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">大厂工作心得</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">学生与社会人思路转变</span></strong></h4>\n<h4><strong><span data-font-family=\"default\">经验：租房、通勤、</span></strong></h4>\n<h2><span style=\"color: #e67e23;\">五、 </span><strong><span data-font-family=\"default\">作品考核</span></strong><strong><span data-font-family=\"default\">（1-2个月）</span></strong></h2>\n<h4><strong><span data-font-family=\"default\">考核题目1、为当前角色设计制作：</span></strong></h4>\n<p><span data-font-family=\"default\">待机、</span><span data-font-family=\"default\">跑步、</span><span data-font-family=\"default\">普攻、</span><span data-font-family=\"default\">暴击、</span><span data-font-family=\"default\">大招</span></p>\n<h4><strong><span data-font-family=\"default\">考核题目2、为当前角色设计制作界面入场动画：</span></strong></h4>\n<p><span data-font-family=\"default\">时长10秒内，</span><span data-font-family=\"default\">突出角色特点</span></p>\n<h4><strong><span data-font-family=\"default\">考核题目3、为当前角色设计制作五连击：</span></strong></h4>\n<p><span data-font-family=\"default\">突出角色特点</span></p>\n<h4><strong><span data-font-family=\"default\">考核题目4、其它形式动画作品：</span></strong></h4>\n<p><span data-font-family=\"default\">时长15秒内</span></p>",
-            "image": "http://www.zhuque.icu/media/posts/2/Xiang-Qing-1-Biao-Ti.jpg",
             "author": {
-                "name": "zhuquedonghua"
+                "name": "朱雀"
             },
             "tags": [
             ],
             "date_published": "2023-04-15T14:21:41+08:00",
-            "date_modified": "2023-04-15T14:22:00+08:00"
-        },
-        {
-            "id": "http://www.zhuque.icu/zhe-shi-yi-ge-ce-shi-e.html",
-            "url": "http://www.zhuque.icu/zhe-shi-yi-ge-ce-shi-e.html",
-            "title": "这是一个测试哦",
-            "summary": "测试内容主题",
-            "content_html": "<p>测试内容主题</p>\n<figure class=\"post__image\"><img decoding=\"auto\" loading=\"lazy\"  src=\"http://www.zhuque.icu/media/posts/1/001.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"100vw\" srcset=\"http://www.zhuque.icu/media/posts/1/responsive/001-xs.jpg 300w ,http://www.zhuque.icu/media/posts/1/responsive/001-sm.jpg 480w ,http://www.zhuque.icu/media/posts/1/responsive/001-md.jpg 768w ,http://www.zhuque.icu/media/posts/1/responsive/001-lg.jpg 1024w ,http://www.zhuque.icu/media/posts/1/responsive/001-xl.jpg 1360w ,http://www.zhuque.icu/media/posts/1/responsive/001-2xl.jpg 1600w\"></figure>",
-            "image": "http://www.zhuque.icu/media/posts/1/001-2.jpg",
-            "author": {
-                "name": "zhuquedonghua"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-15T13:22:14+08:00",
-            "date_modified": "2023-04-15T14:13:31+08:00"
+            "date_modified": "2023-04-15T14:42:04+08:00"
         }
     ]
 }
