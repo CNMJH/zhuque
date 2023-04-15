@@ -14,14 +14,15 @@
             "url": "http://www.zhuque.icu/zhe-shi-yi-ge-ce-shi-e.html",
             "title": "这是一个测试哦",
             "summary": "测试内容主题",
-            "content_html": "<p>测试内容主题</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://www.zhuque.icu/media/posts/1/001.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"100vw\" srcset=\"http://www.zhuque.icu/media/posts/1/responsive/001-xs.png 300w ,http://www.zhuque.icu/media/posts/1/responsive/001-sm.png 480w ,http://www.zhuque.icu/media/posts/1/responsive/001-md.png 768w ,http://www.zhuque.icu/media/posts/1/responsive/001-lg.png 1024w ,http://www.zhuque.icu/media/posts/1/responsive/001-xl.png 1360w ,http://www.zhuque.icu/media/posts/1/responsive/001-2xl.png 1600w\"></figure>",
+            "content_html": "<p>测试内容主题</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://www.zhuque.icu/media/posts/1/001.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"100vw\" srcset=\"http://www.zhuque.icu/media/posts/1/responsive/001-xs.jpg 300w ,http://www.zhuque.icu/media/posts/1/responsive/001-sm.jpg 480w ,http://www.zhuque.icu/media/posts/1/responsive/001-md.jpg 768w ,http://www.zhuque.icu/media/posts/1/responsive/001-lg.jpg 1024w ,http://www.zhuque.icu/media/posts/1/responsive/001-xl.jpg 1360w ,http://www.zhuque.icu/media/posts/1/responsive/001-2xl.jpg 1600w\"></figure>",
+            "image": "http://www.zhuque.icu/media/posts/1/001-2.jpg",
             "author": {
                 "name": "zhuquedonghua"
             },
             "tags": [
             ],
             "date_published": "2023-04-15T13:22:14+08:00",
-            "date_modified": "2023-04-15T13:22:14+08:00"
+            "date_modified": "2023-04-15T14:13:31+08:00"
         }
     ]
 }
