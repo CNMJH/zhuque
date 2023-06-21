@@ -35,6 +35,7 @@ var _hmt = _hmt || [];
         event.preventDefault(); // 阻止链接默认行为
 
         var src = this.getAttribute("href");
+	var player = document.querySelector("#player");
 
         if (src && player) {
           player.setAttribute("src", src);
